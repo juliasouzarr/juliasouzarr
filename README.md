@@ -1,4 +1,4 @@
-# Julia Souza
+#  Seja bem vindo(a)!
 ### Estudante e Monitora Técnica no COTEMIG
 
 
