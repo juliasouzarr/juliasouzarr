@@ -1,9 +1,9 @@
 # Julia Souza
-### Estudante COTEMIG
+### Estudante e Monitora Técnica no COTEMIG
 
 
-- 🖥️Atualmente, estudo HTML/CSS/JS e tenho conhecimento básico em Python. Experiência com Marketing digital e desing no Canva.
-- 💬Inglês fluente 
+- 🖥️HTML/CSS/JS - MYSQL WORKBENCH - C# - UNITY - PACOTE OFFICE - PYTHON BÁSICO - CANVA/FIGMA - MARKETING DIGITAL
+- 💬Inglês avançado 
 - 📱[Linkedin](https://www.linkedin.com/in/julia-souza-b22309239/)
 
 
