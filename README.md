@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Júlia+Souza!;Desenvolvedora+Front-end+e+Estudante+de+Tecnologia" alt="Typing SVG" />
-</div>
 
 ---
 
@@ -9,7 +6,7 @@
 🎓 Técnica em Informática pelo **COTEMIG**  
 🛠️ Focada em desenvolvimento **Front-end** e criação de **interfaces modernas e funcionais**  
 🌐 Explorando tecnologias web e back-end para projetos completos  
-📈 Buscando desafios que envolvam **lógica**, **design de aplicações** e **aprendizado contínuo**
+📈 Buscando desafios que envolvam **lógica** e **aprendizado contínuo**
 
 ---
 
@@ -26,17 +23,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![UI Design](https://img.shields.io/badge/-UI%20Design-8E44AD?style=flat&logo=adobe-xd)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Inglês Avançado](https://img.shields.io/badge/-Inglês%20Avançado-0A66C2?style=flat)
-
----
-
-### 🚀 Projetos em destaque
-
-🔹 **[TaskConnect](https://github.com/juliasouzarr/taskconnect)** – Plataforma de conexão entre prestadores de serviço e clientes.  
-🔹 **[Clone Google Keep](https://github.com/juliasouzarr/keeper-app)** – App de notas com React.  
-🔹 **[Projeto Unity: Jogo 2D](https://github.com/juliasouzarr/...)** – Protótipo com C# e Unity Engine.  
-🔹 *Veja mais no meu GitHub!*
 
 ---
 
