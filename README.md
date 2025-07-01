@@ -1,5 +1,4 @@
 # Bem-vindo!
----
 
 ### 👩‍💻 Sobre mim
 
