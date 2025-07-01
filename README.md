@@ -1,8 +1,8 @@
 #  Seja bem vindo(a)!
-### Estudante e Monitora Técnica no COTEMIG
+### Técnica em TI pelo COTEMIG
 
 
-- 🖥️ HTML/CSS/JS - MYSQL - C# - PHP - ASP.NET - UNITY - PACOTE OFFICE - PYTHON BÁSICO - CANVA/FIGMA - MARKETING DIGITAL
+- 🖥️ HTML/CSS/JS - MYSQL - C# - PHP - ASP.NET - UNITY - REDES E HARDWARE - PACOTE OFFICE - DESIGN UI - MARKETING DIGITAL
 - 💬 Inglês avançado 
 - 📱 [Linkedin](https://www.linkedin.com/in/julia-souza-b22309239/)
 
