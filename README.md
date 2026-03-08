@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Sobre mim
 
-🎓 Técnica em Informática pelo **COTEMIG**  
+🎓 Técnica em Informática pelo **COTEMIG** e estudante de **Gestão da TI** pela Estácio
 🛠️ Focada em desenvolvimento **Front-end** e criação de **interfaces modernas e funcionais**  
 🌐 Explorando tecnologias web e back-end para projetos completos  
 📈 Buscando desafios que envolvam **lógica** e **aprendizado contínuo**
@@ -23,15 +23,6 @@
 ![UI Design](https://img.shields.io/badge/-UI%20Design-8E44AD?style=flat&logo=adobe-xd)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Inglês Avançado](https://img.shields.io/badge/-Inglês%20Avançado-0A66C2?style=flat)
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliasouzarr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouzarr&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
