@@ -9,9 +9,9 @@
 🎓 Computer Technician from **COTEMIG** <br>
 🎓 Information Technology Management student at **Estácio**
 
-🛠️ Focused on **Full Stack Web Development**
-🌐 Building complete **web systems (backend, frontend and databases)**
-📈 Strong interest in **system architecture, application logic and continuous learning**
+🛠️ Focused on **Full Stack Web Development** <br>
+🌐 Building complete **web systems (backend, frontend and databases)** <br>
+📈 Strong interest in **system architecture, application logic and continuous learning** 
 
 ---
 
