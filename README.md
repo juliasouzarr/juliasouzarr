@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-💻 **Full Stack Web Developer** focused on building **complete, scalable and well-structured web applications**
+💻 **Full Stack Web Developer** focused on building complete web systems, from backend architecture and database design to responsive user interfaces.
 
 ---
 
