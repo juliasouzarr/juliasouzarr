@@ -56,10 +56,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact)
-
-
 # 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/julia-souza-b22309239/)
