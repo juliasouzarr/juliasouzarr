@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Technician from **COTEMIG**
+🎓 Computer Technician from **COTEMIG** <br>
 🎓 Information Technology Management student at **Estácio**
 
 🛠️ Focused on **Full Stack Web Development**
