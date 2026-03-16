@@ -15,7 +15,7 @@
 
 ---
 
-# 🚀 Technologies
+# 🚀 Tech Stack
 
 ## 💻 Languages
 
@@ -55,6 +55,10 @@
 ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-E34F26?style=flat)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact)
+
 
 # 🌐 Connect with me
 
