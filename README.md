@@ -57,14 +57,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-# 📌 What I Build
-
-💡 Full-stack web applications with backend and frontend integration  
-🔗 RESTful APIs and database-connected systems  
-📱 Responsive and user-focused interfaces  
-⚙️ Systems with structured logic and clean architecture  
 
 ---
 
